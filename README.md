@@ -12,3 +12,5 @@ Una vez ejecutado este comando se creará la carpeta vendor la cual contiene los
 Sientase libre de usar el proyecto y poder contribuir al mismo.
 
 > Este proyecto es muy util para ser un complemento a tus actividades en desarrolo web.
+
+Compartelo cuando lo descargues y uses
